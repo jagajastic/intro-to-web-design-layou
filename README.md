@@ -1,1 +1,1 @@
-# Introduction to Web Design - Layout Parts
+# Introduction to Web Design - Layout
